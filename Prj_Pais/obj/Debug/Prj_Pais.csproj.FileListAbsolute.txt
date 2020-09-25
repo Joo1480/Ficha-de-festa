@@ -1,0 +1,24 @@
+C:\Users\Cliente\Desktop\Projeto Empresa Pais\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Projeto Empresa Pais\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.Properties.Resources.resources
+C:\Users\Cliente\Desktop\Projeto Empresa Pais\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.csproj.GenerateResource.cache
+C:\Users\Cliente\Desktop\Projeto Empresa Pais\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Projeto Empresa Pais\Prj_Pais\Prj_Pais\bin\Debug\Prj_Pais.exe.config
+C:\Users\Cliente\Desktop\Projeto Empresa Pais\Prj_Pais\Prj_Pais\bin\Debug\Prj_Pais.exe
+C:\Users\Cliente\Desktop\Projeto Empresa Pais\Prj_Pais\Prj_Pais\bin\Debug\Prj_Pais.pdb
+C:\Users\Cliente\Desktop\Projeto Empresa Pais\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.exe
+C:\Users\Cliente\Desktop\Projeto Empresa Pais\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.pdb
+C:\Users\Cliente\Desktop\Projeto Empresa Pais\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.FrmMaquina.resources
+C:\Users\Cliente\Desktop\Projeto Empresa Pais\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.Login.resources
+C:\Users\Cliente\Desktop\Projeto Empresa Big Festa\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Projeto Empresa Big Festa\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.FrmMaquina.resources
+C:\Users\Cliente\Desktop\Projeto Empresa Big Festa\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.Login.resources
+C:\Users\Cliente\Desktop\Projeto Empresa Big Festa\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.Properties.Resources.resources
+C:\Users\Cliente\Desktop\Projeto Empresa Big Festa\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.csproj.GenerateResource.cache
+C:\Users\Cliente\Desktop\Projeto Empresa Big Festa\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Projeto Empresa Big Festa\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.exe
+C:\Users\Cliente\Desktop\Projeto Empresa Big Festa\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.pdb
+C:\Users\Cliente\Desktop\Projeto Empresa Big Festa\Prj_Pais\Prj_Pais\bin\Debug\Prj_Pais.exe.config
+C:\Users\Cliente\Desktop\Projeto Empresa Big Festa\Prj_Pais\Prj_Pais\bin\Debug\Prj_Pais.exe
+C:\Users\Cliente\Desktop\Projeto Empresa Big Festa\Prj_Pais\Prj_Pais\bin\Debug\Prj_Pais.pdb
+C:\Users\Cliente\Desktop\Projeto Empresa Big Festa\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.Central.resources
+C:\Users\Cliente\Desktop\Projeto Empresa Big Festa\Prj_Pais\Prj_Pais\obj\Debug\Prj_Pais.CadProduto.resources
